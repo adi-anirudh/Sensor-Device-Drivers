@@ -2,7 +2,7 @@
  * remoSensor1_BM1383_0_0_1.c
  *
  *  Created on: 13-Jul-2022
- *      Author: Harish
+ *      
  */
 #include <remoSensor1_BM1383_0_0_3.h>
 #include <stdlib.h>
